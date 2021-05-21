@@ -1,8 +1,21 @@
 ### Hi there, I'm Christian 🐱‍🚀
 
-I like JS, TS and React. 
+I'm a self taught web developer (not a real one). I like to build and break things.
 
-- 🔭 I’m currently working on _to many things_.
-- 👯 I’m looking to collaborate on OSS.
-- 📫 How to reach me: https://twitter.com/zeekrey_
-- ⚡ Fun fact: Still like to play WoW. 🧓
+Projects:
+
+**Just C😷vid:** --> <https://krey.io/covid>
+A static Covid-19 Dashboard to test dynamically generated SEO-Thumbnails.
+- Statically generates all Germany cites.
+- Create individual SEO-Thumbnails for every city on a daylie basis.
+- PWA enabled.
+
+
+**Teini** --> <https://teini.co>
+A simple backendless webshop using Stripe as Payment Gateway.
+- Backendless. Product data is stored is a file-datebase using Prisma.js as ORM.
+- Uses Stripe as payment gateway and printful as fullfillment solution.
+- Based on Next.js and Vercel.
+
+
+Find my blog here: <https://krey.io>
